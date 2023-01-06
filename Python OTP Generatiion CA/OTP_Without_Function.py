@@ -3,7 +3,7 @@ import smtplib
 
 # Set your email credentials
 EMAIL_ADDRESS = "mayurpawar9182736455@gmail.com"
-EMAIL_PASSWORD = "wvya kagd bobm beuh"
+EMAIL_PASSWORD = ""
 
 # Set the recipient's email address
 RECIPIENT_EMAIL = "mayurvpawar8@gmail.com"
