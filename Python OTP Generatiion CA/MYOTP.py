@@ -3,7 +3,7 @@ import smtplib
 import re
 
 sender_email='mayurpawar9182736455@gmail.com'
-sender_email_password="wvya kagd bobm beuh"
+sender_email_password=""
 reciever_email='mayurvpawar8@gmail.com'#input("enter your email address.")
 
 regex = r'\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b'
