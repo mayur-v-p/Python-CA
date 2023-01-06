@@ -4,7 +4,7 @@ import smtplib
 def send_otp(otp, recipient_email):
     # Set your email credentials
     EMAIL_ADDRESS = "mayurpawar9182736455@gmail.com"
-    EMAIL_PASSWORD = "wvya kagd bobm beuh"
+    EMAIL_PASSWORD = ""
 
     # Set the email subject and body
     subject = "OTP"
